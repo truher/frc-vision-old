@@ -1,6 +1,6 @@
 # Safety
 
-Radiation of sufficient intensity of any wavelength can dangerous.  
+Radiation of sufficient intensity of any wavelength can be dangerous.  
 
 * [Very long-wave radiation](https://www.fcc.gov/engineering-technology/electromagnetic-compatibility-division/radio-frequency-safety/faq/rf-safety)
 (e.g. radio waves) can heat parts of the body not accustomed to being heated.
