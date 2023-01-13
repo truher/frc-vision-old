@@ -88,7 +88,7 @@ In short, triple the current, double the photons, which means that we can double
 The package of an XP-E2 is a square 3.45 mm on a side, with a hemispherical lens that makes the die appear something like a quarter of the area,
 so say the apparent emitter size is about 3 mm<sup>2</sup>.
 
-As described elsewhere (TOOD) about two thirds of the output is focused into about one steradian, so our 1000&ndash;2000 mW becomes a radiant
+As described elsewhere (TODO) about two thirds of the output is focused into about one steradian, so our 1000&ndash;2000 mW becomes a radiant
 intensity of about 666-1333 mW/sr, and a __radiance of about 2&ndash;4 MW m<sup>-2</sup> sr<sup>-1</sup>.__  For a 4 ms pulse,
 the __radiance dose is 8&ndash;16 kJ m<sup>-2</sup> sr<sup>-1</sup>.__  
 We also need to calculate the average radiance, using the duty cycle of 10% or so that we have in mind, so we find 
